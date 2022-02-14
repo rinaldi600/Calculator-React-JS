@@ -1,0 +1,12 @@
+.display-input {
+    min-height: 700px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.display-input .input textarea {
+    width: 100%;
+    height: 200px;
+    font-size: 55px;
+}
+.display-input .input textarea:hover {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
